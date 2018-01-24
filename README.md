@@ -1,1 +1,4 @@
-# Human-Body-Fat-Analysis
+Accurate measurement of body fat is inconvenient/costly and it is desirable to have easy methods of estimating body fat that are not inconvenient/costly. Using regression techniques, it is possible to come up with the best results for the measurement of body fat.
+The dataset was obtained from CMU StatLib website. It consists of the percentage of body fat determined by underwater weighing and various body circumference measurements for 252 men. 
+
+The objective of the project is to provide significant parameters which influences the response. The analysis includes fitting a linear model followed by checking for the model assumptions, multicollinearity, steps followed to eliminate it (principal component regression), significance test of the model. I have done this model building in R programming. 
